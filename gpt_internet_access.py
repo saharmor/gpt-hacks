@@ -1,8 +1,11 @@
 '''
 Instructions:
-1. pip install pip install google-search-results langchain
+1. pip install langchain openai
 2. Create an account on https://serper.dev
 3. Replace the OpenAI and Serper API keys with the real ones
+
+OR 
+Run via Google Colab https://colab.research.google.com/github/saharmor/gpt-hacks/blob/main/GPT_knowledge_access_beyond_Sep_2021.ipynb
 '''
 
 import os
