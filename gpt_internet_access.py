@@ -1,7 +1,7 @@
 '''
 Instructions:
 1. pip install pip install google-search-results langchain
-2. Create an account on https://serper.dev/
+2. Create an account on https://serper.dev
 3. Replace the OpenAI and Serper API keys with the real ones
 '''
 
